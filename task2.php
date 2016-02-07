@@ -10,4 +10,5 @@ if ($a < $b + $c && $b < $a + $c && $c < $a + $b) {
 } else {
 	echo "<p>This is not triangle</p>";
 }
+//Super!
 ?>

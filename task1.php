@@ -10,4 +10,5 @@ if ($a+$b+$c=180) {
 } else {
 	echo "This is not triangle";
 }
+//Zadachata e opisana mnogo dobre! Daje ia razbiram!!!
 ?>
